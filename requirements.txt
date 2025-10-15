@@ -1,0 +1,6 @@
+flask
+streamlit
+requests
+pydantic
+pyngrok
+sqlite3-binary
