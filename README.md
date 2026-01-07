@@ -1,6 +1,6 @@
-# 🏥 Healthcare Symptom Checker (Educational Demo)
+# Healthcare Symptom Checker 
 
-### 🔹 Overview
+###  Overview
 This project is a simple LLM-powered Flask + Streamlit app that:
 - Accepts symptom text input  
 - Suggests **possible conditions** using a rule-based and LLM-fallback system  
@@ -8,7 +8,7 @@ This project is a simple LLM-powered Flask + Streamlit app that:
 
 ---
 
-### ⚙️ Tech Stack
+### Tech Stack
 - **Flask (Backend API)**
 - **Streamlit (Frontend UI)**
 - **Pydantic (Schema validation)**
@@ -16,7 +16,7 @@ This project is a simple LLM-powered Flask + Streamlit app that:
 
 ---
 
-### 🧠 Workflow
+###  Workflow
 1. User enters symptoms  
 2. Backend checks:
    - **Emergency keywords**
@@ -26,7 +26,7 @@ This project is a simple LLM-powered Flask + Streamlit app that:
 
 ---
 
-### 🚀 Run Locally (Colab or Desktop)
+### Run Locally (Colab or Desktop)
 ```bash
 pip install -r requirements.txt
 python src/app.py
